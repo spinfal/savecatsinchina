@@ -25,3 +25,57 @@ body {
 html {
   scroll-behavior: smooth;
 }
+
+@media screen and (min-width: 320px) {
+
+  body,
+  html {
+    height: auto;
+    min-height: 100%;
+    scroll-snap-type: y mandatory;
+    /* Ensures snapping on small devices */
+  }
+
+  .full-height {
+    min-height: calc(100vh - env(safe-area-inset-top));
+    /* Adjusts full height for small devices */
+    scroll-snap-align: start;
+    /* Ensures elements snap correctly */
+  }
+}
+
+@media screen and (min-width: 768px) {
+
+  body,
+  html {
+    height: auto;
+    min-height: 100%;
+    scroll-snap-type: y mandatory;
+    /* Ensures snapping on tablets */
+  }
+
+  .full-height {
+    min-height: calc(100vh - env(safe-area-inset-top));
+    /* Adjusts full height for tablets */
+    scroll-snap-align: start;
+    /* Ensures elements snap correctly */
+  }
+}
+
+@media screen and (min-width: 1024px) {
+
+  body,
+  html {
+    height: auto;
+    min-height: 100%;
+    scroll-snap-type: y mandatory;
+    /* Ensures snapping on desktops */
+  }
+
+  .full-height {
+    min-height: calc(100vh - env(safe-area-inset-top));
+    /* Adjusts full height for desktop to account for potential top bars */
+    scroll-snap-align: start;
+    /* Ensures elements snap correctly */
+  }
+}
