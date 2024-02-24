@@ -38,10 +38,10 @@ Please take just a little bit of time to complete at least a couple petitions. M
 ## Add your info
 
 Edit these lines so that they use your information:
-- [Author](index.html#23)
-- [URL](index.html#29)
-- [Twitter @](index.html#36)
-- [URL](index.html#37)
+- [Author](index.html#23) line 23
+- [URL](index.html#29) line 29
+- [Twitter @](index.html#36) line 36
+- [URL](index.html#37) line 37
 
 ## Disclaimer
 
