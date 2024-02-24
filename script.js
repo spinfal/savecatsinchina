@@ -10,7 +10,8 @@ document.addEventListener("DOMContentLoaded", function() {
     'images/IMG_2464.jpeg',
     'images/IMG_2465.jpeg',
     'images/IMG_2466.jpeg',
-    'images/IMG_2467.jpeg'
+    'images/IMG_2467.jpeg',
+    'images/IMG_2468.jpeg',
   ];
   let currentIndex = 0;
 
