@@ -35,6 +35,14 @@ There are many people advocating and providing resources. Here are just a few:
 
 Please take just a little bit of time to complete at least a couple petitions. Most of them are quick.
 
+## Add your info
+
+Edit these lines so that they use your information:
+- [Author](index.html#23)
+- [URL](index.html#29)
+- [Twitter @](index.html#36)
+- [URL](index.html#37)
+
 ## Disclaimer
 
 This website does use completely anonymous analytics powered by Umami. I want to be as transparent as possible with this. Here's a list of things that are tracked:
