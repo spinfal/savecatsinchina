@@ -34,3 +34,18 @@ There are many people advocating and providing resources. Here are just a few:
 - Feline Guardians' LinkTree: [fguardianswithoutborders](https://linktr.ee/fguardianswithoutborders)
 
 Please take just a little bit of time to complete at least a couple petitions. Most of them are quick.
+
+## Disclaimer
+
+This website does use completely anonymous analytics powered by Umami. I want to be as transparent as possible with this. Here's a list of things that are tracked:
+- Specific information
+  - Basic User Agent info
+  - Country
+  - Referrer
+- General information (averaged out or counted across all visitors)
+  - Visitor count
+  - Average visit time
+  - Bounce rate
+  - Views
+
+I included comments in the [index.html](index.html) file if you'd like to remove the analytics. The only purpose is to track how well the page is doing and it's spread <3
