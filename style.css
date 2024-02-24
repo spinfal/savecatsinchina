@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  overflow: auto;
+  scroll-snap-type: y mandatory;
+  /* This enables vertical snapping */
+}
+
+body {
+  scroll-padding-top: env(safe-area-inset-top);
+  /* Adjusts for notches/status bars on mobile devices */
+}
+
+.full-height {
+  min-height: 100vh;
+  /* This makes the div take up the full viewport height */
+  width: 100%;
+  scroll-snap-align: start;
+  /* This aligns the snap point at the top of the element */
+}
+
+/* Ensures smooth scrolling (optional) */
+html {
+  scroll-behavior: smooth;
+}
