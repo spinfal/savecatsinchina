@@ -18,8 +18,6 @@ Cats on Hello Street Cat are not the only victims, there are and have been count
 
 View the images here: [images](./images)
 
-![Image 7](images/IMG_2468.jpeg)
-
 ## How can I help stop abuse?
 
 There are many people advocating and providing resources. Here are just a few:
