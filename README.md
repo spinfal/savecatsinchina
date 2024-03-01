@@ -16,11 +16,7 @@ Cats on Hello Street Cat are not the only victims, there are and have been count
 
 ## Abusive actions and their victims
 
-![Image 1](images/IMG_2462.jpeg) ![Image 2](images/IMG_2463.jpeg)
-
-![Image 3](images/IMG_2464.jpeg) ![Image 4](images/IMG_2465.jpeg)
-
-![Image 5](images/IMG_2466.jpeg) ![Image 6](images/IMG_2467.jpeg)
+View the images here: [images](./images)
 
 ![Image 7](images/IMG_2468.jpeg)
 
