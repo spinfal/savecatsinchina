@@ -26,7 +26,7 @@ There are many people advocating and providing resources. Here are just a few:
 - Change.org general petition: [Click Here](https://www.change.org/p/urgent-call-to-put-a-stop-to-unprecedented-levels-of-cruelty-torture-to-animals-in-china)
 - The OIPA's petition: [Click Here](https://www.oipa.org/international/cats-tortured-and-killed-online-china/)
 - Actions individuals like you can take to take down abuse gangs: [Click Here](https://telegra.ph/Actionables-to-Take-Down-Cat-Abuse-Gang-09-20)
-- The main hub for information, petitions, and actions: [savecatsinchina](https://sites.google.com/view/savecatsinchina/take-action)
+- The main hub for information, petitions, and actions: [savecatsinchina](https://www.felineguardians.org/take-action)
 - Feline Guardians' LinkTree: [fguardianswithoutborders](https://linktr.ee/fguardianswithoutborders)
 
 Please take just a little bit of time to complete at least a couple petitions. Most of them are quick.
